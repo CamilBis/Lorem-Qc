@@ -1,0 +1,25 @@
+{
+  "name": "loremqc",
+  "version": "1.0.0",
+  "description": "Lorem Ipsum, mais avec la poésie québécoise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamilBis/Lorem-Qc.git"
+  },
+  "keywords": [
+    "lorem"
+  ],
+  "author": "Camil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamilBis/Lorem-Qc/issues"
+  },
+  "homepage": "https://github.com/CamilBis/Lorem-Qc#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
